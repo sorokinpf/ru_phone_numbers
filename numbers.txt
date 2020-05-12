@@ -1,0 +1,898 @@
+<tr>
+<td style="text-align: center;"><strong>Сотовый оператор</strong></td>
+<td style="text-align: center;"><strong>Код</strong></td>
+<td style="text-align: center;"><strong>Начало серии<br /></strong></td>
+<td style="text-align: center;"><strong>Окончание серии</strong></td>
+<td style="text-align: center;"><strong>Дата выдачи</strong></td>
+</tr>
+<tr>
+<td>ОАО "Московская Сотовая Связь" (Скайлинк)</td>
+<td style="text-align: center;">901</td>
+<td style="text-align: center;">1800000</td>
+<td style="text-align: center;">1899999</td>
+<td style="text-align: center;">01.01.1980</td>
+</tr>
+<tr>
+<td>ОАО "МТТ"</td>
+<td style="text-align: center;">901</td>
+<td style="text-align: center;">2090000</td>
+<td style="text-align: center;">2099999</td>
+<td style="text-align: center;">01.03.2007</td>
+</tr>
+<tr>
+<td>ОАО "Московская Сотовая Связь" (Скайлинк)</td>
+<td style="text-align: center;">901</td>
+<td style="text-align: center;">4000000</td>
+<td style="text-align: center;">4099999</td>
+<td style="text-align: center;">01.01.1980</td>
+</tr>
+<tr>
+<td>ОАО "Московская Сотовая Связь" (Скайлинк)</td>
+<td style="text-align: center;">901</td>
+<td style="text-align: center;">4610000</td>
+<td style="text-align: center;">4619999</td>
+<td style="text-align: center;">30.10.2003</td>
+</tr>
+<tr>
+<td>ОАО "Московская Сотовая Связь" (Скайлинк)</td>
+<td style="text-align: center;">901</td>
+<td style="text-align: center;">4640000</td>
+<td style="text-align: center;">4649999</td>
+<td style="text-align: center;">30.10.2003</td>
+</tr>
+<tr>
+<td>ОАО "Московская Сотовая Связь" (Скайлинк)</td>
+<td style="text-align: center;">901</td>
+<td style="text-align: center;">4700000</td>
+<td style="text-align: center;">4709999</td>
+<td style="text-align: center;">01.01.1980</td>
+</tr>
+<tr>
+<td>ОАО "Московская Сотовая Связь" (Скайлинк)</td>
+<td style="text-align: center;">901</td>
+<td style="text-align: center;">5000000</td>
+<td style="text-align: center;">5999999</td>
+<td style="text-align: center;">30.10.2003</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">901</td>
+<td style="text-align: center;">7000000</td>
+<td style="text-align: center;">7999999</td>
+<td style="text-align: center;">20.07.2000</td>
+</tr>
+<tr>
+<td>ОАО "Московская Сотовая Связь" (Скайлинк)</td>
+<td style="text-align: center;">901</td>
+<td style="text-align: center;">9000000</td>
+<td style="text-align: center;">9099999</td>
+<td style="text-align: center;">01.01.1980</td>
+</tr>
+<tr>
+<td>ОАО "Московская Сотовая Связь" (Скайлинк)</td>
+<td style="text-align: center;">901</td>
+<td style="text-align: center;">9820000</td>
+<td style="text-align: center;">9839999</td>
+<td style="text-align: center;">01.01.1980</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">903</td>
+<td style="text-align: center;">0000000</td>
+<td style="text-align: center;">0199999</td>
+<td style="text-align: center;">06.07.2004</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">903</td>
+<td style="text-align: center;">1000000</td>
+<td style="text-align: center;">2999999</td>
+<td style="text-align: center;">19.06.2002</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">903</td>
+<td style="text-align: center;">3630000</td>
+<td style="text-align: center;">3639999</td>
+<td style="text-align: center;">07.10.2003</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">903</td>
+<td style="text-align: center;">5000000</td>
+<td style="text-align: center;">5999999</td>
+<td style="text-align: center;">14.02.2002</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">903</td>
+<td style="text-align: center;">6100000</td>
+<td style="text-align: center;">6299999</td>
+<td style="text-align: center;">07.09.2000</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">903</td>
+<td style="text-align: center;">6600000</td>
+<td style="text-align: center;">6899999</td>
+<td style="text-align: center;">07.09.2000</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">903</td>
+<td style="text-align: center;">7000000</td>
+<td style="text-align: center;">7999999</td>
+<td style="text-align: center;">24.07.2000</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">903</td>
+<td style="text-align: center;">9600000</td>
+<td style="text-align: center;">9799999</td>
+<td style="text-align: center;">22.04.2002</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">905</td>
+<td style="text-align: center;">5000000</td>
+<td style="text-align: center;">5999999</td>
+<td style="text-align: center;">05.08.2003</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">905</td>
+<td style="text-align: center;">7000000</td>
+<td style="text-align: center;">7999999</td>
+<td style="text-align: center;">06.03.2003</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">906</td>
+<td style="text-align: center;">0000000</td>
+<td style="text-align: center;">0999999</td>
+<td style="text-align: center;">22.11.2004</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">906</td>
+<td style="text-align: center;">7000000</td>
+<td style="text-align: center;">7999999</td>
+<td style="text-align: center;">25.08.2004</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">909</td>
+<td style="text-align: center;">1500000</td>
+<td style="text-align: center;">1699999</td>
+<td style="text-align: center;">19.04.2005</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">909</td>
+<td style="text-align: center;">6200000</td>
+<td style="text-align: center;">6999999</td>
+<td style="text-align: center;">11.02.2005</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">909</td>
+<td style="text-align: center;">9000000</td>
+<td style="text-align: center;">9999999</td>
+<td style="text-align: center;">19.04.2005</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">910</td>
+<td style="text-align: center;">0000000</td>
+<td style="text-align: center;">0059999</td>
+<td style="text-align: center;">07.03.2008</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">910</td>
+<td style="text-align: center;">0080000</td>
+<td style="text-align: center;">0569999</td>
+<td style="text-align: center;">07.03.2008</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">910</td>
+<td style="text-align: center;">0600000</td>
+<td style="text-align: center;">0899999</td>
+<td style="text-align: center;">07.03.2008</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">910</td>
+<td style="text-align: center;">4000000</td>
+<td style="text-align: center;">4999999</td>
+<td style="text-align: center;">06.06.2001</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">915</td>
+<td style="text-align: center;">0000000</td>
+<td style="text-align: center;">4999999</td>
+<td style="text-align: center;">02.12.2004</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">916</td>
+<td style="text-align: center;">0000000</td>
+<td style="text-align: center;">9999999</td>
+<td style="text-align: center;">26.09.2001</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">917</td>
+<td style="text-align: center;">5000000</td>
+<td style="text-align: center;">5999999</td>
+<td style="text-align: center;">04.03.2004</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">919</td>
+<td style="text-align: center;">1000000</td>
+<td style="text-align: center;">1099999</td>
+<td style="text-align: center;">26.04.2006</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">919</td>
+<td style="text-align: center;">1390000</td>
+<td style="text-align: center;">1399999</td>
+<td style="text-align: center;">26.04.2006</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">919</td>
+<td style="text-align: center;">4100000</td>
+<td style="text-align: center;">4119999</td>
+<td style="text-align: center;">26.04.2006</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">919</td>
+<td style="text-align: center;">7200000</td>
+<td style="text-align: center;">7299999</td>
+<td style="text-align: center;">26.04.2006</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">919</td>
+<td style="text-align: center;">7600000</td>
+<td style="text-align: center;">7799999</td>
+<td style="text-align: center;">26.04.2006</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">919</td>
+<td style="text-align: center;">7840000</td>
+<td style="text-align: center;">7849999</td>
+<td style="text-align: center;">26.04.2006</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">919</td>
+<td style="text-align: center;">7860000</td>
+<td style="text-align: center;">7869999</td>
+<td style="text-align: center;">26.04.2006</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">919</td>
+<td style="text-align: center;">9600000</td>
+<td style="text-align: center;">9709999</td>
+<td style="text-align: center;">26.04.2006</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">919</td>
+<td style="text-align: center;">9900000</td>
+<td style="text-align: center;">9999999</td>
+<td style="text-align: center;">26.04.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">0000000</td>
+<td style="text-align: center;">0999999</td>
+<td style="text-align: center;">13.05.2008</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">1010000</td>
+<td style="text-align: center;">1069999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">1080000</td>
+<td style="text-align: center;">1089999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">1300000</td>
+<td style="text-align: center;">1309999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">1360000</td>
+<td style="text-align: center;">1369999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">1390000</td>
+<td style="text-align: center;">1399999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">2200000</td>
+<td style="text-align: center;">2209999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">2260000</td>
+<td style="text-align: center;">2269999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">2310000</td>
+<td style="text-align: center;">2319999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">2330000</td>
+<td style="text-align: center;">2339999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">2470000</td>
+<td style="text-align: center;">2479999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">2580000</td>
+<td style="text-align: center;">2589999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">2730000</td>
+<td style="text-align: center;">2739999</td>
+<td style="text-align: center;">16.12.2009</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">2790000</td>
+<td style="text-align: center;">2799999</td>
+<td style="text-align: center;">16.12.2009</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">2830000</td>
+<td style="text-align: center;">2849999</td>
+<td style="text-align: center;">16.12.2009</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">2890000</td>
+<td style="text-align: center;">2899999</td>
+<td style="text-align: center;">16.12.2009</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">3060000</td>
+<td style="text-align: center;">3069999</td>
+<td style="text-align: center;">16.12.2009</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">3150000</td>
+<td style="text-align: center;">3159999</td>
+<td style="text-align: center;">16.12.2009</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">3630000</td>
+<td style="text-align: center;">3649999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">3900000</td>
+<td style="text-align: center;">3999999</td>
+<td style="text-align: center;">16.12.2009</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">4100000</td>
+<td style="text-align: center;">4119999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">4240000</td>
+<td style="text-align: center;">4249999</td>
+<td style="text-align: center;">16.12.2009</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">4280000</td>
+<td style="text-align: center;">4289999</td>
+<td style="text-align: center;">16.12.2009</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">5000000</td>
+<td style="text-align: center;">5009999</td>
+<td style="text-align: center;">10.08.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">5020000</td>
+<td style="text-align: center;">5029999</td>
+<td style="text-align: center;">10.08.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">5040000</td>
+<td style="text-align: center;">5109999</td>
+<td style="text-align: center;">10.08.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">5140000</td>
+<td style="text-align: center;">5149999</td>
+<td style="text-align: center;">10.08.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">5170000</td>
+<td style="text-align: center;">5189999</td>
+<td style="text-align: center;">10.08.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">5420000</td>
+<td style="text-align: center;">5459999</td>
+<td style="text-align: center;">10.08.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">5850000</td>
+<td style="text-align: center;">5859999</td>
+<td style="text-align: center;">10.08.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">5890000</td>
+<td style="text-align: center;">5899999</td>
+<td style="text-align: center;">22.09.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">6420000</td>
+<td style="text-align: center;">6429999</td>
+<td style="text-align: center;">10.08.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">6460000</td>
+<td style="text-align: center;">6469999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">6630000</td>
+<td style="text-align: center;">6659999</td>
+<td style="text-align: center;">16.12.2009</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">7000000</td>
+<td style="text-align: center;">7999999</td>
+<td style="text-align: center;">10.08.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">8000000</td>
+<td style="text-align: center;">8999999</td>
+<td style="text-align: center;">04.09.2008</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">9200000</td>
+<td style="text-align: center;">9209999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">9220000</td>
+<td style="text-align: center;">9229999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">9600000</td>
+<td style="text-align: center;">9619999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">9670000</td>
+<td style="text-align: center;">9709999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">9740000</td>
+<td style="text-align: center;">9749999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">9850000</td>
+<td style="text-align: center;">9859999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">9910000</td>
+<td style="text-align: center;">9919999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">925</td>
+<td style="text-align: center;">9970000</td>
+<td style="text-align: center;">9999999</td>
+<td style="text-align: center;">28.12.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">926</td>
+<td style="text-align: center;">0000000</td>
+<td style="text-align: center;">0999999</td>
+<td style="text-align: center;">27.09.2007</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">926</td>
+<td style="text-align: center;">1000000</td>
+<td style="text-align: center;">9999999</td>
+<td style="text-align: center;">24.07.2001</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">929</td>
+<td style="text-align: center;">5000000</td>
+<td style="text-align: center;">5999999</td>
+<td style="text-align: center;">24.12.2008</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">929</td>
+<td style="text-align: center;">6000000</td>
+<td style="text-align: center;">6999999</td>
+<td style="text-align: center;">09.10.2006</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">929</td>
+<td style="text-align: center;">9000000</td>
+<td style="text-align: center;">9999999</td>
+<td style="text-align: center;">24.12.2008</td>
+</tr>
+<tr>
+<td>ОАО "МегаФон" Столичный филиал</td>
+<td style="text-align: center;">936</td>
+<td style="text-align: center;">6000000</td>
+<td style="text-align: center;">6009999</td>
+<td style="text-align: center;">20.03.2009</td>
+</tr>
+<tr>
+<td>ОАО "Центральный Телеграф"</td>
+<td style="text-align: center;">958</td>
+<td style="text-align: center;">5190000</td>
+<td style="text-align: center;">5199999</td>
+<td style="text-align: center;">05.12.2012</td>
+</tr>
+<tr>
+<td>ООО "Матрикс Телеком"</td>
+<td style="text-align: center;">958</td>
+<td style="text-align: center;">5230000</td>
+<td style="text-align: center;">5239999</td>
+<td style="text-align: center;">15.02.2013</td>
+</tr>
+<tr>
+<td>ОАО "МТТ"</td>
+<td style="text-align: center;">958</td>
+<td style="text-align: center;">5550000</td>
+<td style="text-align: center;">5559999</td>
+<td style="text-align: center;">01.04.2012</td>
+</tr>
+<tr>
+<td>ОАО "Ростелеком"</td>
+<td style="text-align: center;">958</td>
+<td style="text-align: center;">6300000</td>
+<td style="text-align: center;">6444999</td>
+<td style="text-align: center;">23.05.2013</td>
+</tr>
+<tr>
+<td>ОАО "МТТ"</td>
+<td style="text-align: center;">958</td>
+<td style="text-align: center;">7000000</td>
+<td style="text-align: center;">7699999</td>
+<td style="text-align: center;">01.04.2012</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">962</td>
+<td style="text-align: center;">3600000</td>
+<td style="text-align: center;">3699999</td>
+<td style="text-align: center;">22.02.2006</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">962</td>
+<td style="text-align: center;">9000000</td>
+<td style="text-align: center;">9999999</td>
+<td style="text-align: center;">07.11.2005</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">963</td>
+<td style="text-align: center;">6000000</td>
+<td style="text-align: center;">6999999</td>
+<td style="text-align: center;">12.07.2006</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">963</td>
+<td style="text-align: center;">7100000</td>
+<td style="text-align: center;">7139999</td>
+<td style="text-align: center;">04.04.2007</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">963</td>
+<td style="text-align: center;">7140000</td>
+<td style="text-align: center;">7199999</td>
+<td style="text-align: center;">05.09.2008</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">963</td>
+<td style="text-align: center;">7200000</td>
+<td style="text-align: center;">7299999</td>
+<td style="text-align: center;">01.06.2007</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">963</td>
+<td style="text-align: center;">7500000</td>
+<td style="text-align: center;">7509999</td>
+<td style="text-align: center;">04.04.2007</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">963</td>
+<td style="text-align: center;">7510000</td>
+<td style="text-align: center;">7599999</td>
+<td style="text-align: center;">05.09.2008</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">963</td>
+<td style="text-align: center;">7600000</td>
+<td style="text-align: center;">7699999</td>
+<td style="text-align: center;">01.06.2007</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">963</td>
+<td style="text-align: center;">7700000</td>
+<td style="text-align: center;">7899999</td>
+<td style="text-align: center;">04.04.2007</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">963</td>
+<td style="text-align: center;">9200000</td>
+<td style="text-align: center;">9299999</td>
+<td style="text-align: center;">01.06.2007</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">963</td>
+<td style="text-align: center;">9600000</td>
+<td style="text-align: center;">9799999</td>
+<td style="text-align: center;">01.06.2007</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">963</td>
+<td style="text-align: center;">9900000</td>
+<td style="text-align: center;">9999999</td>
+<td style="text-align: center;">01.06.2007</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">964</td>
+<td style="text-align: center;">5000000</td>
+<td style="text-align: center;">5399999</td>
+<td style="text-align: center;">05.09.2008</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">964</td>
+<td style="text-align: center;">5500000</td>
+<td style="text-align: center;">5999999</td>
+<td style="text-align: center;">05.09.2008</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">964</td>
+<td style="text-align: center;">6200000</td>
+<td style="text-align: center;">6499999</td>
+<td style="text-align: center;">05.09.2008</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">964</td>
+<td style="text-align: center;">7000000</td>
+<td style="text-align: center;">7299999</td>
+<td style="text-align: center;">05.09.2008</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">964</td>
+<td style="text-align: center;">7600000</td>
+<td style="text-align: center;">7999999</td>
+<td style="text-align: center;">05.09.2008</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">965</td>
+<td style="text-align: center;">1000000</td>
+<td style="text-align: center;">1999999</td>
+<td style="text-align: center;">15.12.2008</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">965</td>
+<td style="text-align: center;">2000000</td>
+<td style="text-align: center;">2499999</td>
+<td style="text-align: center;">15.12.2008</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">965</td>
+<td style="text-align: center;">2500000</td>
+<td style="text-align: center;">4499999</td>
+<td style="text-align: center;">29.01.2009</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">966</td>
+<td style="text-align: center;">0000000</td>
+<td style="text-align: center;">0999999</td>
+<td style="text-align: center;">19.09.2013</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">966</td>
+<td style="text-align: center;">1000000</td>
+<td style="text-align: center;">1999999</td>
+<td style="text-align: center;">11.11.2013</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">966</td>
+<td style="text-align: center;">3000000</td>
+<td style="text-align: center;">3999999</td>
+<td style="text-align: center;">11.11.2013</td>
+</tr>
+<tr>
+<td>ОАО "Вымпелком" (Билайн)</td>
+<td style="text-align: center;">967</td>
+<td style="text-align: center;">0000000</td>
+<td style="text-align: center;">2999999</td>
+<td style="text-align: center;">11.09.2009</td>
+</tr>
+<tr>
+<td>ОАО "Московская Сотовая Связь" (<span>Tele2</span>)</td>
+<td style="text-align: center;">977</td>
+<td style="text-align: center;">2500000</td>
+<td style="text-align: center;">9999999</td>
+<td style="text-align: center;">2015</td>
+</tr>
+<tr>
+<td>ОАО "Мобильные ТелеСистемы" (МТС)</td>
+<td style="text-align: center;">985</td>
+<td style="text-align: center;">0000000</td>
+<td style="text-align: center;">9999999</td>
+<td style="text-align: center;">01.07.2007</td>
+</tr>
+<tr>
+<td>ОАО "Ростелеком"</td>
+<td style="text-align: center;">999</td>
+<td style="text-align: center;">7799000</td>
+<td style="text-align: center;">7799999</td>
+<td style="text-align: center;">23.05.2013</td>
+</tr>
+<tr>
+<td>ООО    "Йота"</td>
+<td style="text-align: center;">999</td>
+<td style="text-align: center;">8000000</td>
+<td style="text-align: center;">8499999</td>
+<td style="text-align: center;">28.03.2014</td>
+</tr>
+<tr>
+<td>ОАО "Ростелеком"</td>
+<td style="text-align: center;">999</td>
+<td style="text-align: center;">8800000</td>
+<td style="text-align: center;">9299999</td>
+<td style="text-align: center;">23.05.2013</td>
+</tr>
+<tr>
+<td>ООО    "Йота"</td>
+<td style="text-align: center;">999</td>
+<td style="text-align: center;">9800000</td>
+<td style="text-align: center;">9999999</td>
+<td style="text-align: center;">28.03.2014</td>
+</tr>
+</tbody>
+</table>
